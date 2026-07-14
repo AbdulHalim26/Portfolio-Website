@@ -18,6 +18,16 @@ Currently exploring modern web stacks like Next.js, Node.js, and FastAPI while a
       url: "https://github.com/AbdulHalim26",
       icon: "github",
     },
+    {
+      name: "Instagram",
+      url: "https://www.instagram.com/_mrlimm/",
+      icon: "instagram",
+    },
+    {
+      name: "WhatsApp",
+      url: "https://wa.me/6281312333735",
+      icon: "whatsapp",
+    },
   ],
   skills: [
     { name: "HTML", category: "frontend" as const },

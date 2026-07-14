@@ -3,12 +3,14 @@
 import Link from "next/link"
 import { ArrowUpRight, ChevronUp } from "lucide-react"
 import { SiGithub } from "react-icons/si"
-import { FaLinkedin } from "react-icons/fa"
+import { FaLinkedin, FaInstagram, FaWhatsapp } from "react-icons/fa"
 import { portfolioData } from "@/lib/data"
 
 const socialIcons: Record<string, React.FC<{ className?: string }>> = {
   linkedin: FaLinkedin,
   github: SiGithub,
+  instagram: FaInstagram,
+  whatsapp: FaWhatsapp,
 }
 
 function scrollToTop() {
