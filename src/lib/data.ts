@@ -57,7 +57,7 @@ Currently exploring modern web stacks like Next.js, Node.js, and FastAPI while a
     {
       title: "Anggota Komisi A",
       organization: "BEM FASILKOM UNSIKA",
-      period: "2026",
+      period: "2026 - 2027",
       description: "Active member of the student executive board, contributing to organizational development and student welfare initiatives.",
       type: "work" as const,
     },
