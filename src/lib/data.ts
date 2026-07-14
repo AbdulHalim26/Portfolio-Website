@@ -28,6 +28,11 @@ Currently exploring modern web stacks like Next.js, Node.js, and FastAPI while a
       url: "https://wa.me/6281312333735",
       icon: "whatsapp",
     },
+    {
+      name: "YouTube",
+      url: "https://www.youtube.com/@HalimJunior-lr4yv",
+      icon: "youtube",
+    },
   ],
   skills: [
     { name: "HTML", category: "frontend" as const },
