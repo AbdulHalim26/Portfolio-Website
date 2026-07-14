@@ -7,6 +7,6 @@ export default function robots(): MetadataRoute.Robots {
       allow: "/",
       disallow: "/api/",
     },
-    sitemap: "https://abdulhalim.dev/sitemap.xml",
+    sitemap: "https://abdulhalim.vercel.app/sitemap.xml",
   }
 }

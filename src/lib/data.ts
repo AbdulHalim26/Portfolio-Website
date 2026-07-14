@@ -103,7 +103,7 @@ Currently exploring modern web stacks like Next.js, Node.js, and FastAPI while a
       description: "Financial literacy platform designed for young Indonesians to understand the stock market (IHSG). Built with modern web technologies for an intuitive learning experience.",
       tech: ["Next.js", "TypeScript", "Tailwind CSS"],
       links: {
-        live: "https://aksara.techsoft.my.id",
+        live: "https://abdulhalim.vercel.app",
       },
       highlight: true,
     },

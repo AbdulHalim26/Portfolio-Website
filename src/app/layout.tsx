@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
   display: "swap",
 })
 
-const baseUrl = "https://abdulhalim.dev"
+const baseUrl = "https://abdulhalim.vercel.app"
 
 export const metadata: Metadata = {
   metadataBase: new URL(baseUrl),
