@@ -5,6 +5,7 @@ import { ArrowUpRight, ChevronUp } from "lucide-react"
 import { SiGithub } from "react-icons/si"
 import { FaLinkedin } from "react-icons/fa"
 import { portfolioData } from "@/lib/data"
+import { VisitorCounter } from "@/components/VisitorCounter"
 
 const socialIcons: Record<string, React.FC<{ className?: string }>> = {
   linkedin: FaLinkedin,
@@ -76,6 +77,8 @@ export function Footer() {
               <span>&copy; {new Date().getFullYear()} {portfolioData.name}</span>
               <span className="text-muted-foreground/20">|</span>
               <span>Built with Next.js</span>
+              <span className="text-muted-foreground/20">|</span>
+              <VisitorCounter />
             </div>
           </div>
           <div className="flex items-center gap-4">

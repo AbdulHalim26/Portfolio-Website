@@ -1,6 +1,7 @@
 import type { Metadata } from "next"
 import { Geist, Geist_Mono } from "next/font/google"
 import Script from "next/script"
+import { Analytics } from "@vercel/analytics/react"
 import { ThemeProvider } from "@/components/ThemeProvider"
 import "./globals.css"
 
@@ -73,6 +74,7 @@ export default function RootLayout({
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem disableTransitionOnChange>
           {children}
         </ThemeProvider>
+        <Analytics />
         <Script
           id="ld-json"
           type="application/ld+json"
