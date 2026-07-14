@@ -57,7 +57,7 @@ Currently exploring modern web stacks like Next.js, Node.js, and FastAPI while a
     {
       title: "Anggota Komisi A",
       organization: "BEM FASILKOM UNSIKA",
-      period: "2025 - Present",
+      period: "2026",
       description: "Active member of the student executive board, contributing to organizational development and student welfare initiatives.",
       type: "work" as const,
     },
@@ -71,21 +71,21 @@ Currently exploring modern web stacks like Next.js, Node.js, and FastAPI while a
     {
       title: "Peserta Hackathon Frontier Colloseum",
       organization: "Global Web3 Event",
-      period: "2025",
+      period: "2026",
       description: "Participated in the Frontier Colloseum global Web3 hackathon, competing in blockchain and decentralized application development.",
       type: "achievement" as const,
     },
     {
       title: "Peserta Web Development Polindra",
       organization: "BlockDev Ethereum Network",
-      period: "2025",
+      period: "2026",
       description: "Participated in web development competition organized by Polindra, blockchain track by BlockDev on Ethereum network.",
       type: "achievement" as const,
     },
     {
       title: "Finalis BPC (Business Plan Competition)",
       organization: "UNRAM",
-      period: "2025",
+      period: "2026",
       description: "Finalist in the Business Plan Competition but unable to attend due to travel costs to UNRAM.",
       type: "achievement" as const,
     },
